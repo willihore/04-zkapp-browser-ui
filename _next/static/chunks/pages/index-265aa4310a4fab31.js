@@ -605,7 +605,7 @@ function Home() {
             // Update this to use the address (public key) for your zkApp account
             // To try it out, you can try this address for an example "Add" smart contract that we've deployed to 
             // Berkeley Testnet B62qqkb7hD1We6gEfrcqosKt9C398VLp1WXeTo1i9boPoqF7B1LxHg4
-            const zkAppAddress = "";
+            const zkAppAddress = "B62qr6bLPG7WH2FhP7Xx26xSeJLSFmo36WGarpsFuQakvVMFj6WJcXn";
             // This should be removed once the zkAppAddress is updated.
             if (!zkAppAddress) {
                 console.error('The following error is caused because the zkAppAddress has an empty string as the public key. Update the zkAppAddress with the public key for your zkApp account, or try this address for an example "Add" smart contract that we deployed to Berkeley Testnet: B62qqkb7hD1We6gEfrcqosKt9C398VLp1WXeTo1i9boPoqF7B1LxHg4');
@@ -619,7 +619,7 @@ function Home() {
             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {
                 children: [
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("title", {
-                        children: "Create Next App"
+                        children: "MINA TESTNET"
                     }),
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("meta", {
                         name: "description",
@@ -639,8 +639,8 @@ function Home() {
                         children: [
                             "Welcome to ",
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("a", {
-                                href: "https://nextjs.org",
-                                children: "Next.js!"
+                                href: "https://minaprotocol.com/",
+                                children: "Mina Testnet"
                             })
                         ]
                     }),
@@ -744,7 +744,7 @@ function Home() {
 /***/ (function(module) {
 
 // extracted by mini-css-extract-plugin
-module.exports = {"container":"Home_container__bCOhY","main":"Home_main__nLjiQ","footer":"Home_footer____T7K","title":"Home_title__T09hD","description":"Home_description__41Owk","code":"Home_code__suPER","grid":"Home_grid__GxQ85","card":"Home_card___LpL1","logo":"Home_logo__27_tb"};
+module.exports = {"container":"Home_container__bCOhY","main":"Home_main__nLjiQ","footer":"Home_footer____T7K","footerbg":"Home_footerbg__XmJ88","blank":"Home_blank__VvP8P","title":"Home_title__T09hD","description":"Home_description__41Owk","code":"Home_code__suPER","grid":"Home_grid__GxQ85","card":"Home_card___LpL1","logo":"Home_logo__27_tb","homepage":"Home_homepage__o_ei3","homepageImg":"Home_homepageImg__fcRDd","banner":"Home_banner__WnS5R","banner2":"Home_banner2__nEGJg","connectBtn":"Home_connectBtn__q4_OB","loadingBtn":"Home_loadingBtn__vAScy","loading":"Home_loading__IsZ5F","getLoading":"Home_getLoading__Ml8Nf","sendLoading":"Home_sendLoading__Zkd01","sendCheck":"Home_sendCheck__xMz4p","sendDone":"Home_sendDone__abENy","caution":"Home_caution__VEpHP","succes":"Home_succes__k1IzW","statusTxt":"Home_statusTxt__dVex8","statusSendTxt":"Home_statusSendTxt___A48X","walletLink":"Home_walletLink__QYgFg","walletTxt":"Home_walletTxt__aVJtU","faucetTxt":"Home_faucetTxt__R0HSg","faucetHere":"Home_faucetHere__TRzkn","backNoAccount":"Home_backNoAccount__s1McX","backNoWallet":"Home_backNoWallet__IBr_n","sendBtn":"Home_sendBtn__F6hw6","sendBtnDisable":"Home_sendBtnDisable__6VyTK","getBtn":"Home_getBtn__h_3sY","getBtnDisable":"Home_getBtnDisable__ASdt7","txtState":"Home_txtState__XfTmO","numState":"Home_numState__RWB8u","txtAddrs":"Home_txtAddrs__0j0LW","addrs":"Home_addrs__ciNE1","getscreen":"Home_getscreen__MZw5Y","getscreenBlack":"Home_getscreenBlack__Krl3p","getscreenImg":"Home_getscreenImg__WMr9D","sendscreen":"Home_sendscreen__P9tsM","sendscreenBlack":"Home_sendscreenBlack__x7Fq9","sendscreenImg":"Home_sendscreenImg__5SKtV","closeGet":"Home_closeGet__qG2td","closeSend":"Home_closeSend__b_1LB","teleIcon":"Home_teleIcon__qLDZz","dcIcon":"Home_dcIcon__DDy4R","fbIcon":"Home_fbIcon__HDaE7","gitIcon":"Home_gitIcon__L23x5","png":"Home_png__bhOiV"};
 
 /***/ }),
 
